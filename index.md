@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Hi. My name is Ana.
 
-You can use the [editor on GitHub](https://github.com/Ana-Diaz/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm obsessed with how language helps us makes connections with the world around us.
 
 ### Markdown
 
