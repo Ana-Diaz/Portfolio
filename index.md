@@ -26,15 +26,15 @@ Surado Solutions / California
 
 ### Skills
 
-Here are some of the skills I've procured during my career| Here are some of the skills I'm currently growing
------------------------------------------------------------|---------------------------------------------------
- Writing                                             | Markdown (this portfolio was written in Markdown)
- Editing                                             | API Documentation ( I'm learning about JSON)
- Marketing                                           | Basic coding (I'm learning about very basic fundamentals of Javascript)
- Content Strategy                                    |
+Skills I've procured during my career                | Skills I'm currently growing
+-----------------------------------------------------|---------------------------------------------------
+ Writing                                             | Markdown (This portfolio was written in Markdown)
+ Editing                                             | API Documentation (I'm learning about JSON and REST APIs)
+ Marketing                                           | Basic coding (I'm learning about very basic fundamentals with Javascript)
+ Content Strategy                                    | Github (Not bad, right?)
  Cross-functional team collaboration                 | 
-
-
+ Google Work Suite                                   |
+ Adobe Creative Suite                                |
 
 ### Writing Examples
 [Firmware update instructions intended for retail associates](https://www.dropbox.com/s/8m49a5zis4bpajn/FirmwareUpdate.pdf?dl=0)   
