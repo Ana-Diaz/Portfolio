@@ -43,5 +43,5 @@ Skills I've procured during my career                | Skills I'm currently grow
 
 ### Contact
 
-Hello@anadiazcontreras.com
+Hello@anadiazcontreras.com   
 www.AnaDiazContreras.com
