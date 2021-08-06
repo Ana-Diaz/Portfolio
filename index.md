@@ -2,13 +2,13 @@
 
 I'm obsessed with how language helps us makes connections with the world around us.
 
-I have ten cumaltive years of marketing and technical writing experience. My focus is on simlifying complex subjects into digestable. relatable information. Creating connections with my writing is my mission.
+I have ten cumaltive years of marketing and technical writing experience. My focus is on simlifying complex subjects into digestable, relatable information. Creating connections with my writing is my mission.
 
 
 ### Professional Experience
 **Copywriter**, 2018 - Present  
 ZAGG, Inc / California
-  * I'm responsible for all the strategic copy for ZAGG's portbale power brands
+  * I'm responsible for all the strategic copy for ZAGG's portable power brands
 
 **Technical Writer**, 2015 - 2018  
 VIZIO / California
@@ -37,10 +37,11 @@ Here are some of the skills I've procured during my career| Here are some of the
 
 
 ### Writing Examples
-
-Here are some of the skills I've procured during my career:
+[Firmware update instructions intended for retail associates](https://www.dropbox.com/s/8m49a5zis4bpajn/FirmwareUpdate.pdf?dl=0)   
+[Customer instructions on how to properly pack a TV for service](https://www.dropbox.com/s/b3glqa92g0wdlvg/PackagingForService.pdf?dl=0)  
+[Example of a TV user manual](http://cdn.vizio.com/documents/mseries2018/RS12226_M55-F0_M65-F0_M70-F3_UM_ENG_02282018.pdf)  
 
 ### Contact
 
-Email  
-Website
+Hello@anadiazcontreras.com
+www.AnaDiazContreras.com
