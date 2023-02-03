@@ -6,9 +6,13 @@ I have ten cumaltive years of marketing and technical writing experience. My foc
 
 
 ### Professional Experience
-**Copywriter**, 2018 - Present  
+**Copywriter**, 2022 - Present  
+Ingram Micro Cloud / California
+  * I write copy (social, email, landing pages, etc.) for internal company campaigns
+
+**Copywriter**, 2018 - 2022 
 ZAGG, Inc / California
-  * I'm responsible for all the strategic copy for ZAGG's portable power brands
+  * I was responsible for all the strategic copy for ZAGG's portable power brands
 
 **Technical Writer**, 2015 - 2018  
 VIZIO / California
